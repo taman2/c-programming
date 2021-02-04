@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578080060 source:c:\users\mohamed\desktop\self\floattosring\main.c
+	<stdio.h>
+	<stdlib.h>
+
